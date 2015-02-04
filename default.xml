@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch="ssh://git@github.com:hampelratte" />
+
+  <remote  name="hampelratte"
+           fetch="." />
+
+  <default revision="master"
+           remote="github"
+           sync-c="true"
+           sync-j="4" />
+
+  <project path="vch-master" name="vch-master" remote="github" />
+  
+</manifest>
