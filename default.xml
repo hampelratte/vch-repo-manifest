@@ -12,6 +12,35 @@
         sync-c="true"
         sync-j="4" />
 
+    <project path="vch-bundle-loader" name="hampelratte/vch-bundle-loader" />
+    <project path="vch-config" name="hampelratte/vch-config" />
+    <project path="vch-download" name="hampelratte/vch-download" />
+    <project path="vch-download-http" name="hampelratte/vch-download-http" />
+    <project path="vch-download-mms" name="hampelratte/vch-download-mms" />
+    <project path="vch-download-rtmp" name="hampelratte/vch-download-rtmp" />
+    <project path="vch-download-web" name="hampelratte/vch-download-web" />
+    <project path="vch-feed-support" name="hampelratte/vch-feed-support" />
+    <project path="vch-httpclient" name="hampelratte/vch-httpclient" />
+    <project path="vch-i18n" name="hampelratte/vch-i18n" />
+    <project path="vch-json-support" name="hampelratte/vch-json-support" />
+    <project path="vch-logger" name="hampelratte/vch-logger" />
     <project path="vch-master" name="hampelratte/vch-master" />
-
+    <project path="vch-net" name="hampelratte/vch-net" />
+    <project path="vch-osdserver" name="hampelratte/vch-osdserver" />
+    <project path="vch-parent" name="hampelratte/vch-parent" />
+    <project path="vch-parser" name="hampelratte/vch-parser" />
+    <project path="vch-parser-3sat" name="hampelratte/vch-parser-3sat" />
+    <project path="vch-parser-ard" name="hampelratte/vch-parser-ard" />
+    <project path="vch-parser-arte" name="hampelratte/vch-parser-arte" />
+    <project path="vch-parser-br" name="hampelratte/vch-parser-br" />
+    <project path="vch-parser-service" name="hampelratte/vch-parser-service" />
+    <project path="vch-parser-web" name="hampelratte/vch-parser-web" />
+    <project path="vch-parser-zdf" name="hampelratte/vch-parser-zdf" />
+    <project path="vch-playlist" name="hampelratte/vch-playlist" />
+    <project path="vch-playlist-config" name="hampelratte/vch-playlist-config" />
+    <project path="vch-playlist-osd" name="hampelratte/vch-playlist-osd" />
+    <project path="vch-playlist-web" name="hampelratte/vch-playlist-web" />
+    <project path="vch-update" name="hampelratte/vch-update" />
+    <project path="vch-uri-resolver" name="hampelratte/vch-uri-resolver" />
+    <project path="vch-web" name="hampelratte/vch-web" />
 </manifest>
