@@ -33,6 +33,7 @@
     <project path="vch-parser-ard" name="hampelratte/vch-parser-ard" />
     <project path="vch-parser-arte" name="hampelratte/vch-parser-arte" />
     <project path="vch-parser-br" name="hampelratte/vch-parser-br" />
+    <project path="vch-parser-golem" name="hampelratte/vch-parser-golem" />
     <project path="vch-parser-service" name="hampelratte/vch-parser-service" />
     <project path="vch-parser-web" name="hampelratte/vch-parser-web" />
     <project path="vch-parser-zdf" name="hampelratte/vch-parser-zdf" />
@@ -40,6 +41,7 @@
     <project path="vch-playlist-config" name="hampelratte/vch-playlist-config" />
     <project path="vch-playlist-osd" name="hampelratte/vch-playlist-osd" />
     <project path="vch-playlist-web" name="hampelratte/vch-playlist-web" />
+    <project path="vch-repo-manifest" name="hampelratte/vch-repo-manifest" />
     <project path="vch-update" name="hampelratte/vch-update" />
     <project path="vch-uri-resolver" name="hampelratte/vch-uri-resolver" />
     <project path="vch-web" name="hampelratte/vch-web" />
