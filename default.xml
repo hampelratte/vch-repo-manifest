@@ -35,6 +35,7 @@
     <project path="vch-parser-br" name="hampelratte/vch-parser-br" />
     <project path="vch-parser-golem" name="hampelratte/vch-parser-golem" />
     <project path="vch-parser-myspass" name="hampelratte/vch-parser-myspass" />
+    <project path="vch-parser-orf" name="hampelratte/vch-parser-orf" />
     <project path="vch-parser-rss" name="hampelratte/vch-parser-rss" />
     <project path="vch-parser-service" name="hampelratte/vch-parser-service" />
     <project path="vch-parser-sf" name="hampelratte/vch-parser-sf" />
