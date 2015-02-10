@@ -46,6 +46,9 @@
     <project path="vch-playlist-osd" name="hampelratte/vch-playlist-osd" />
     <project path="vch-playlist-web" name="hampelratte/vch-playlist-web" />
     <project path="vch-repo-manifest" name="hampelratte/vch-repo-manifest" />
+    <project path="vch-search" name="hampelratte/vch-search" />
+    <project path="vch-search-web" name="hampelratte/vch-search-web" />
+    <project path="vch-search-zdf" name="hampelratte/vch-search-zdf" />
     <project path="vch-update" name="hampelratte/vch-update" />
     <project path="vch-uri-resolver" name="hampelratte/vch-uri-resolver" />
     <project path="vch-web" name="hampelratte/vch-web" />
