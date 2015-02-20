@@ -49,6 +49,7 @@
     <project path="vch-search" name="hampelratte/vch-search" />
     <project path="vch-search-3sat" name="hampelratte/vch-search-3sat" />
     <project path="vch-search-ard" name="hampelratte/vch-search-ard" />
+    <project path="vch-search-arte" name="hampelratte/vch-search-arte" />
     <project path="vch-search-osd" name="hampelratte/vch-search-osd" />
     <project path="vch-search-web" name="hampelratte/vch-search-web" />
     <project path="vch-search-zdf" name="hampelratte/vch-search-zdf" />
