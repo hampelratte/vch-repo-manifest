@@ -42,6 +42,7 @@
     <project path="vch-parser-service" name="hampelratte/vch-parser-service" />
     <project path="vch-parser-sf" name="hampelratte/vch-parser-sf" />
     <project path="vch-parser-web" name="hampelratte/vch-parser-web" />
+    <project path="vch-parser-youtube" name="hampelratte/vch-parser-youtube" />
     <project path="vch-parser-zdf" name="hampelratte/vch-parser-zdf" />
     <project path="vch-playlist" name="hampelratte/vch-playlist" />
     <project path="vch-playlist-config" name="hampelratte/vch-playlist-config" />
