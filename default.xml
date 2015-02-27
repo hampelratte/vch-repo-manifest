@@ -22,7 +22,7 @@
     <project path="vch-feed-support" name="hampelratte/vch-feed-support" />
     <project path="vch-httpclient" name="hampelratte/vch-httpclient" />
     <project path="vch-i18n" name="hampelratte/vch-i18n" />
-    <project path="vch-json-support" name="hampelratte/vch-json-support" />
+    <project path="vch-json-support" name="hampelratte/vch-json-support" revision="release" />
     <project path="vch-logger" name="hampelratte/vch-logger" />
     <project path="vch-master" name="hampelratte/vch-master" />
     <project path="vch-net" name="hampelratte/vch-net" />
