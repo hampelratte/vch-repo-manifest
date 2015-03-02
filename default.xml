@@ -12,52 +12,52 @@
         sync-c="true"
         sync-j="4" />
 
-    <project path="vch-bundle-loader" name="hampelratte/vch-bundle-loader" />
-    <project path="vch-config" name="hampelratte/vch-config" />
-    <project path="vch-download" name="hampelratte/vch-download" />
-    <project path="vch-download-http" name="hampelratte/vch-download-http" />
-    <project path="vch-download-mms" name="hampelratte/vch-download-mms" />
-    <project path="vch-download-rtmp" name="hampelratte/vch-download-rtmp" />
-    <project path="vch-download-web" name="hampelratte/vch-download-web" />
-    <project path="vch-feed-support" name="hampelratte/vch-feed-support" />
-    <project path="vch-httpclient" name="hampelratte/vch-httpclient" />
-    <project path="vch-i18n" name="hampelratte/vch-i18n" />
+    <project path="vch-bundle-loader" name="hampelratte/vch-bundle-loader" revision="release" />
+    <project path="vch-config" name="hampelratte/vch-config" revision="release" />
+    <project path="vch-download" name="hampelratte/vch-download" revision="release" />
+    <project path="vch-download-http" name="hampelratte/vch-download-http" revision="release" />
+    <project path="vch-download-mms" name="hampelratte/vch-download-mms" revision="release" />
+    <project path="vch-download-rtmp" name="hampelratte/vch-download-rtmp" revision="release" />
+    <project path="vch-download-web" name="hampelratte/vch-download-web" revision="release" />
+    <project path="vch-feed-support" name="hampelratte/vch-feed-support" revision="release" />
+    <project path="vch-httpclient" name="hampelratte/vch-httpclient" revision="release" />
+    <project path="vch-i18n" name="hampelratte/vch-i18n" revision="release" />
     <project path="vch-json-support" name="hampelratte/vch-json-support" revision="release" />
-    <project path="vch-logger" name="hampelratte/vch-logger" />
+    <project path="vch-logger" name="hampelratte/vch-logger" revision="release" />
     <project path="vch-master" name="hampelratte/vch-master" />
-    <project path="vch-net" name="hampelratte/vch-net" />
-    <project path="vch-osdserver" name="hampelratte/vch-osdserver" />
+    <project path="vch-net" name="hampelratte/vch-net" revision="release" />
+    <project path="vch-osdserver" name="hampelratte/vch-osdserver" revision="release" />
     <project path="vch-parent" name="hampelratte/vch-parent" />
-    <project path="vch-parser" name="hampelratte/vch-parser" />
-    <project path="vch-parser-3sat" name="hampelratte/vch-parser-3sat" />
-    <project path="vch-parser-ard" name="hampelratte/vch-parser-ard" />
-    <project path="vch-parser-arte" name="hampelratte/vch-parser-arte" />
-    <project path="vch-parser-br" name="hampelratte/vch-parser-br" />
-    <project path="vch-parser-golem" name="hampelratte/vch-parser-golem" />
-    <project path="vch-parser-myspass" name="hampelratte/vch-parser-myspass" />
-    <project path="vch-parser-orf" name="hampelratte/vch-parser-orf" />
-    <project path="vch-parser-rss" name="hampelratte/vch-parser-rss" />
-    <project path="vch-parser-rtl" name="hampelratte/vch-parser-rtl" />
-    <project path="vch-parser-sat1" name="hampelratte/vch-parser-sat1" />
-    <project path="vch-parser-service" name="hampelratte/vch-parser-service" />
-    <project path="vch-parser-sf" name="hampelratte/vch-parser-sf" />
-    <project path="vch-parser-web" name="hampelratte/vch-parser-web" />
-    <project path="vch-parser-youtube" name="hampelratte/vch-parser-youtube" />
-    <project path="vch-parser-zdf" name="hampelratte/vch-parser-zdf" />
-    <project path="vch-playlist" name="hampelratte/vch-playlist" />
-    <project path="vch-playlist-config" name="hampelratte/vch-playlist-config" />
-    <project path="vch-playlist-osd" name="hampelratte/vch-playlist-osd" />
-    <project path="vch-playlist-web" name="hampelratte/vch-playlist-web" />
+    <project path="vch-parser" name="hampelratte/vch-parser" revision="release" />
+    <project path="vch-parser-3sat" name="hampelratte/vch-parser-3sat" revision="release" />
+    <project path="vch-parser-ard" name="hampelratte/vch-parser-ard" revision="release" />
+    <project path="vch-parser-arte" name="hampelratte/vch-parser-arte" revision="release" />
+    <project path="vch-parser-br" name="hampelratte/vch-parser-br" revision="release" />
+    <project path="vch-parser-golem" name="hampelratte/vch-parser-golem" revision="release" />
+    <project path="vch-parser-myspass" name="hampelratte/vch-parser-myspass" revision="release" />
+    <project path="vch-parser-orf" name="hampelratte/vch-parser-orf" revision="release" />
+    <project path="vch-parser-rss" name="hampelratte/vch-parser-rss" revision="release" />
+    <project path="vch-parser-rtl" name="hampelratte/vch-parser-rtl" revision="release" />
+    <project path="vch-parser-sat1" name="hampelratte/vch-parser-sat1" revision="release" />
+    <project path="vch-parser-service" name="hampelratte/vch-parser-service" revision="release" />
+    <project path="vch-parser-sf" name="hampelratte/vch-parser-sf" revision="release" />
+    <project path="vch-parser-web" name="hampelratte/vch-parser-web" revision="release" />
+    <project path="vch-parser-youtube" name="hampelratte/vch-parser-youtube" revision="release" />
+    <project path="vch-parser-zdf" name="hampelratte/vch-parser-zdf" revision="release" />
+    <project path="vch-playlist" name="hampelratte/vch-playlist" revision="release" />
+    <project path="vch-playlist-config" name="hampelratte/vch-playlist-config" revision="release" />
+    <project path="vch-playlist-osd" name="hampelratte/vch-playlist-osd" revision="release" />
+    <project path="vch-playlist-web" name="hampelratte/vch-playlist-web" revision="release" />
     <project path="vch-repo-manifest" name="hampelratte/vch-repo-manifest" />
-    <project path="vch-search" name="hampelratte/vch-search" />
-    <project path="vch-search-3sat" name="hampelratte/vch-search-3sat" />
-    <project path="vch-search-ard" name="hampelratte/vch-search-ard" />
-    <project path="vch-search-arte" name="hampelratte/vch-search-arte" />
-    <project path="vch-search-osd" name="hampelratte/vch-search-osd" />
-    <project path="vch-search-web" name="hampelratte/vch-search-web" />
-    <project path="vch-search-youtube" name="hampelratte/vch-search-youtube" />
-    <project path="vch-search-zdf" name="hampelratte/vch-search-zdf" />
-    <project path="vch-update" name="hampelratte/vch-update" />
-    <project path="vch-uri-resolver" name="hampelratte/vch-uri-resolver" />
-    <project path="vch-web" name="hampelratte/vch-web" />
+    <project path="vch-search" name="hampelratte/vch-search" revision="release" />
+    <project path="vch-search-3sat" name="hampelratte/vch-search-3sat" revision="release" />
+    <project path="vch-search-ard" name="hampelratte/vch-search-ard" revision="release" />
+    <project path="vch-search-arte" name="hampelratte/vch-search-arte" revision="release" />
+    <project path="vch-search-osd" name="hampelratte/vch-search-osd" revision="release" />
+    <project path="vch-search-web" name="hampelratte/vch-search-web" revision="release" />
+    <project path="vch-search-youtube" name="hampelratte/vch-search-youtube" revision="release" />
+    <project path="vch-search-zdf" name="hampelratte/vch-search-zdf" revision="release" />
+    <project path="vch-update" name="hampelratte/vch-update" revision="release" />
+    <project path="vch-uri-resolver" name="hampelratte/vch-uri-resolver" revision="release" />
+    <project path="vch-web" name="hampelratte/vch-web" revision="release" />
 </manifest>
