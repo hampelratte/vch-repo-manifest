@@ -24,7 +24,7 @@
     <project path="vch-i18n" name="hampelratte/vch-i18n" revision="release" />
     <project path="vch-json-support" name="hampelratte/vch-json-support" revision="release" />
     <project path="vch-logger" name="hampelratte/vch-logger" revision="release" />
-    <project path="vch-master" name="hampelratte/vch-master" />
+    <project path="vch-master" name="hampelratte/vch-master" revision="release" />
     <project path="vch-net" name="hampelratte/vch-net" revision="release" />
     <project path="vch-osdserver" name="hampelratte/vch-osdserver" revision="release" />
     <project path="vch-parent" name="hampelratte/vch-parent" />
