@@ -19,4 +19,10 @@ Initializing repo
 $ mkdir WORKING_DIRECTORY
 $ cd WORKING_DIRECTORY
 $ repo init -u https://github.com/hampelratte/vch-repo-manifest.git
+$ repo sync
+```
+or
+```
+$ repo init -u https://github.com/hampelratte/vch-repo-manifest.git -b release
+$ repo sync
 ```
