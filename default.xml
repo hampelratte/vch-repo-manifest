@@ -57,6 +57,7 @@
     <project path="vch-search-youtube" name="hampelratte/vch-search-youtube" revision="release" />
     <project path="vch-search-zdf" name="hampelratte/vch-search-zdf" revision="release" />
     <project path="vch-update" name="hampelratte/vch-update" revision="release" />
+    <project path="vch-upnp" name="hampelratte/vch-upnp" revision="release" />
     <project path="vch-uri-resolver" name="hampelratte/vch-uri-resolver" revision="release" />
     <project path="vch-web" name="hampelratte/vch-web" revision="release" />
 </manifest>
